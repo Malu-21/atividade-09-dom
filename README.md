@@ -8,7 +8,7 @@ Este é um jogo desenvolvido com JavaScript puro (DOM), onde o jogador deve enco
 ---
 
 ## 🎮 Como jogar
-- Digite seu nome :
+- Digite seu nome:
 - Clique em "Jogar"
 - Encontre o 😎 entre os 😀
 - Cada acerto vale +10 pontos
